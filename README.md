@@ -3,7 +3,7 @@ This is the tri-state inverter ring oscillator with frequency ranging from 100 M
 
 ### TRO Schematic
 
-! [TRO_Schematic](TRO_Schematic.png)
+![TRO_Schematic](TRO_Schematic.png)
 
 ### TRO Layout
 ![TRO](TRO.png)
